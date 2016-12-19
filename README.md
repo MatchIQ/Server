@@ -1,4 +1,4 @@
-MATCHIQ-SERVER
+# MATCHIQ-SERVER
 
 
 To start the server issue the following on the terminal :
